@@ -1,4 +1,3 @@
-#  Task Manager
 
 A MERN application for basic tasks management.
 
