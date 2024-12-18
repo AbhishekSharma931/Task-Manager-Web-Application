@@ -40,7 +40,7 @@ A MERN application for basic tasks management.
 - Custom Loaders
 - Use of layout component for pages
 - Use of theme colors
-- No external CSS files needed (made using Bootstrap CSS)
+- No external CSS files needed (made using Tailwind CSS)
 - Usage of Tooltips
 - Dynamic document titles
 - Redirect to previous page after login
@@ -56,7 +56,7 @@ A MERN application for basic tasks management.
 - HTML
 - CSS
 - Javascript
-- Bootstrap CSS
+- Tailwind CSS
 - Node.js
 - Express.js
 - React
